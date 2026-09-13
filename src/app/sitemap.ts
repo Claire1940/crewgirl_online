@@ -9,26 +9,26 @@ const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://crewgirl.online'
 
 // 内容类型优先级配置
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'guide': 0.9,
+	'cast': 0.8,
+	'release': 0.9,
+	'story': 0.8,
+	'reviews': 0.8,
+	'streaming': 0.7,
+	'filming': 0.7,
+	'trailer': 0.7,
 }
 
 // 内容更新频率配置
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
-	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'guide': 'weekly',
+	'cast': 'monthly',
+	'release': 'daily',
+	'story': 'monthly',
+	'reviews': 'weekly',
+	'streaming': 'weekly',
+	'filming': 'monthly',
+	'trailer': 'weekly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

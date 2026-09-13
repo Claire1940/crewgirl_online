@@ -1,1 +1,714 @@
-{}
+{
+  "en": {
+    "cast": [
+      {
+        "slug": "Crew-Girl-actress",
+        "file": "Crew-Girl-actress"
+      },
+      {
+        "slug": "Crew-Girl-cast-ages",
+        "file": "Crew-Girl-cast-ages"
+      },
+      {
+        "slug": "Crew-Girl-cast",
+        "file": "Crew-Girl-cast"
+      },
+      {
+        "slug": "Crew-Girl-full-cast",
+        "file": "Crew-Girl-full-cast"
+      },
+      {
+        "slug": "Crew-Girl-kyle-clark",
+        "file": "Crew-Girl-kyle-clark"
+      },
+      {
+        "slug": "Crew-Girl-miku-martineau",
+        "file": "Crew-Girl-miku-martineau"
+      },
+      {
+        "slug": "Crew-Girl-netflix-cast",
+        "file": "Crew-Girl-netflix-cast"
+      },
+      {
+        "slug": "Crew-Girl-samuel-braun",
+        "file": "Crew-Girl-samuel-braun"
+      }
+    ],
+    "filming": [
+      {
+        "slug": "Crew-Girl-filmed-in-victoria",
+        "file": "Crew-Girl-filmed-in-victoria"
+      },
+      {
+        "slug": "Crew-Girl-filming-locations",
+        "file": "Crew-Girl-filming-locations"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Crew-Girl-age-rating",
+        "file": "Crew-Girl-age-rating"
+      },
+      {
+        "slug": "Crew-Girl-common-sense-media",
+        "file": "Crew-Girl-common-sense-media"
+      },
+      {
+        "slug": "Crew-Girl-episodes",
+        "file": "Crew-Girl-episodes"
+      },
+      {
+        "slug": "Crew-Girl-genre",
+        "file": "Crew-Girl-genre"
+      },
+      {
+        "slug": "Crew-Girl-parents-guide",
+        "file": "Crew-Girl-parents-guide"
+      },
+      {
+        "slug": "Crew-Girl-plot",
+        "file": "Crew-Girl-plot"
+      },
+      {
+        "slug": "Crew-Girl-synopsis",
+        "file": "Crew-Girl-synopsis"
+      },
+      {
+        "slug": "Crew-Girl-what-is-it-about",
+        "file": "Crew-Girl-what-is-it-about"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Crew-Girl-netflix-release-date",
+        "file": "Crew-Girl-netflix-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-date",
+        "file": "Crew-Girl-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-time",
+        "file": "Crew-Girl-release-time"
+      },
+      {
+        "slug": "Crew-Girl-season-1-release-date",
+        "file": "Crew-Girl-season-1-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2-release-date",
+        "file": "Crew-Girl-season-2-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2",
+        "file": "Crew-Girl-season-2"
+      },
+      {
+        "slug": "Crew-Girl-when-does-it-come-out",
+        "file": "Crew-Girl-when-does-it-come-out"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Crew-Girl-ending-explained",
+        "file": "Crew-Girl-ending-explained"
+      },
+      {
+        "slug": "Crew-Girl-netflix-review",
+        "file": "Crew-Girl-netflix-review"
+      },
+      {
+        "slug": "Crew-Girl-rating",
+        "file": "Crew-Girl-rating"
+      },
+      {
+        "slug": "Crew-Girl-review",
+        "file": "Crew-Girl-review"
+      },
+      {
+        "slug": "Crew-Girl-rotten-tomatoes",
+        "file": "Crew-Girl-rotten-tomatoes"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Crew-Girl-based-on-a-book",
+        "file": "Crew-Girl-based-on-a-book"
+      },
+      {
+        "slug": "Crew-Girl-book-ending",
+        "file": "Crew-Girl-book-ending"
+      },
+      {
+        "slug": "Crew-Girl-book",
+        "file": "Crew-Girl-book"
+      },
+      {
+        "slug": "Crew-Girl-love-triangle",
+        "file": "Crew-Girl-love-triangle"
+      },
+      {
+        "slug": "Crew-Girl-rowing",
+        "file": "Crew-Girl-rowing"
+      },
+      {
+        "slug": "Crew-Girl-who-does-she-end-up-with",
+        "file": "Crew-Girl-who-does-she-end-up-with"
+      }
+    ],
+    "streaming": [
+      {
+        "slug": "Crew-Girl-netflix",
+        "file": "Crew-Girl-netflix"
+      },
+      {
+        "slug": "Crew-Girl-watch-online",
+        "file": "Crew-Girl-watch-online"
+      },
+      {
+        "slug": "Crew-Girl-where-to-watch",
+        "file": "Crew-Girl-where-to-watch"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Crew-Girl-trailer",
+        "file": "Crew-Girl-trailer"
+      }
+    ]
+  },
+  "es": {
+    "cast": [
+      {
+        "slug": "Crew-Girl-actress",
+        "file": "Crew-Girl-actress"
+      },
+      {
+        "slug": "Crew-Girl-cast-ages",
+        "file": "Crew-Girl-cast-ages"
+      },
+      {
+        "slug": "Crew-Girl-cast",
+        "file": "Crew-Girl-cast"
+      },
+      {
+        "slug": "Crew-Girl-full-cast",
+        "file": "Crew-Girl-full-cast"
+      },
+      {
+        "slug": "Crew-Girl-kyle-clark",
+        "file": "Crew-Girl-kyle-clark"
+      },
+      {
+        "slug": "Crew-Girl-miku-martineau",
+        "file": "Crew-Girl-miku-martineau"
+      },
+      {
+        "slug": "Crew-Girl-netflix-cast",
+        "file": "Crew-Girl-netflix-cast"
+      },
+      {
+        "slug": "Crew-Girl-samuel-braun",
+        "file": "Crew-Girl-samuel-braun"
+      }
+    ],
+    "filming": [
+      {
+        "slug": "Crew-Girl-filmed-in-victoria",
+        "file": "Crew-Girl-filmed-in-victoria"
+      },
+      {
+        "slug": "Crew-Girl-filming-locations",
+        "file": "Crew-Girl-filming-locations"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Crew-Girl-age-rating",
+        "file": "Crew-Girl-age-rating"
+      },
+      {
+        "slug": "Crew-Girl-common-sense-media",
+        "file": "Crew-Girl-common-sense-media"
+      },
+      {
+        "slug": "Crew-Girl-episodes",
+        "file": "Crew-Girl-episodes"
+      },
+      {
+        "slug": "Crew-Girl-genre",
+        "file": "Crew-Girl-genre"
+      },
+      {
+        "slug": "Crew-Girl-parents-guide",
+        "file": "Crew-Girl-parents-guide"
+      },
+      {
+        "slug": "Crew-Girl-plot",
+        "file": "Crew-Girl-plot"
+      },
+      {
+        "slug": "Crew-Girl-synopsis",
+        "file": "Crew-Girl-synopsis"
+      },
+      {
+        "slug": "Crew-Girl-what-is-it-about",
+        "file": "Crew-Girl-what-is-it-about"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Crew-Girl-netflix-release-date",
+        "file": "Crew-Girl-netflix-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-date",
+        "file": "Crew-Girl-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-time",
+        "file": "Crew-Girl-release-time"
+      },
+      {
+        "slug": "Crew-Girl-season-1-release-date",
+        "file": "Crew-Girl-season-1-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2-release-date",
+        "file": "Crew-Girl-season-2-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2",
+        "file": "Crew-Girl-season-2"
+      },
+      {
+        "slug": "Crew-Girl-when-does-it-come-out",
+        "file": "Crew-Girl-when-does-it-come-out"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Crew-Girl-ending-explained",
+        "file": "Crew-Girl-ending-explained"
+      },
+      {
+        "slug": "Crew-Girl-netflix-review",
+        "file": "Crew-Girl-netflix-review"
+      },
+      {
+        "slug": "Crew-Girl-rating",
+        "file": "Crew-Girl-rating"
+      },
+      {
+        "slug": "Crew-Girl-review",
+        "file": "Crew-Girl-review"
+      },
+      {
+        "slug": "Crew-Girl-rotten-tomatoes",
+        "file": "Crew-Girl-rotten-tomatoes"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Crew-Girl-based-on-a-book",
+        "file": "Crew-Girl-based-on-a-book"
+      },
+      {
+        "slug": "Crew-Girl-book-ending",
+        "file": "Crew-Girl-book-ending"
+      },
+      {
+        "slug": "Crew-Girl-book",
+        "file": "Crew-Girl-book"
+      },
+      {
+        "slug": "Crew-Girl-love-triangle",
+        "file": "Crew-Girl-love-triangle"
+      },
+      {
+        "slug": "Crew-Girl-rowing",
+        "file": "Crew-Girl-rowing"
+      },
+      {
+        "slug": "Crew-Girl-who-does-she-end-up-with",
+        "file": "Crew-Girl-who-does-she-end-up-with"
+      }
+    ],
+    "streaming": [
+      {
+        "slug": "Crew-Girl-netflix",
+        "file": "Crew-Girl-netflix"
+      },
+      {
+        "slug": "Crew-Girl-watch-online",
+        "file": "Crew-Girl-watch-online"
+      },
+      {
+        "slug": "Crew-Girl-where-to-watch",
+        "file": "Crew-Girl-where-to-watch"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Crew-Girl-trailer",
+        "file": "Crew-Girl-trailer"
+      }
+    ]
+  },
+  "fr": {
+    "cast": [
+      {
+        "slug": "Crew-Girl-actress",
+        "file": "Crew-Girl-actress"
+      },
+      {
+        "slug": "Crew-Girl-cast-ages",
+        "file": "Crew-Girl-cast-ages"
+      },
+      {
+        "slug": "Crew-Girl-cast",
+        "file": "Crew-Girl-cast"
+      },
+      {
+        "slug": "Crew-Girl-full-cast",
+        "file": "Crew-Girl-full-cast"
+      },
+      {
+        "slug": "Crew-Girl-kyle-clark",
+        "file": "Crew-Girl-kyle-clark"
+      },
+      {
+        "slug": "Crew-Girl-miku-martineau",
+        "file": "Crew-Girl-miku-martineau"
+      },
+      {
+        "slug": "Crew-Girl-netflix-cast",
+        "file": "Crew-Girl-netflix-cast"
+      },
+      {
+        "slug": "Crew-Girl-samuel-braun",
+        "file": "Crew-Girl-samuel-braun"
+      }
+    ],
+    "filming": [
+      {
+        "slug": "Crew-Girl-filmed-in-victoria",
+        "file": "Crew-Girl-filmed-in-victoria"
+      },
+      {
+        "slug": "Crew-Girl-filming-locations",
+        "file": "Crew-Girl-filming-locations"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Crew-Girl-age-rating",
+        "file": "Crew-Girl-age-rating"
+      },
+      {
+        "slug": "Crew-Girl-common-sense-media",
+        "file": "Crew-Girl-common-sense-media"
+      },
+      {
+        "slug": "Crew-Girl-episodes",
+        "file": "Crew-Girl-episodes"
+      },
+      {
+        "slug": "Crew-Girl-genre",
+        "file": "Crew-Girl-genre"
+      },
+      {
+        "slug": "Crew-Girl-parents-guide",
+        "file": "Crew-Girl-parents-guide"
+      },
+      {
+        "slug": "Crew-Girl-plot",
+        "file": "Crew-Girl-plot"
+      },
+      {
+        "slug": "Crew-Girl-synopsis",
+        "file": "Crew-Girl-synopsis"
+      },
+      {
+        "slug": "Crew-Girl-what-is-it-about",
+        "file": "Crew-Girl-what-is-it-about"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Crew-Girl-netflix-release-date",
+        "file": "Crew-Girl-netflix-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-date",
+        "file": "Crew-Girl-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-time",
+        "file": "Crew-Girl-release-time"
+      },
+      {
+        "slug": "Crew-Girl-season-1-release-date",
+        "file": "Crew-Girl-season-1-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2-release-date",
+        "file": "Crew-Girl-season-2-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2",
+        "file": "Crew-Girl-season-2"
+      },
+      {
+        "slug": "Crew-Girl-when-does-it-come-out",
+        "file": "Crew-Girl-when-does-it-come-out"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Crew-Girl-ending-explained",
+        "file": "Crew-Girl-ending-explained"
+      },
+      {
+        "slug": "Crew-Girl-netflix-review",
+        "file": "Crew-Girl-netflix-review"
+      },
+      {
+        "slug": "Crew-Girl-rating",
+        "file": "Crew-Girl-rating"
+      },
+      {
+        "slug": "Crew-Girl-review",
+        "file": "Crew-Girl-review"
+      },
+      {
+        "slug": "Crew-Girl-rotten-tomatoes",
+        "file": "Crew-Girl-rotten-tomatoes"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Crew-Girl-based-on-a-book",
+        "file": "Crew-Girl-based-on-a-book"
+      },
+      {
+        "slug": "Crew-Girl-book-ending",
+        "file": "Crew-Girl-book-ending"
+      },
+      {
+        "slug": "Crew-Girl-book",
+        "file": "Crew-Girl-book"
+      },
+      {
+        "slug": "Crew-Girl-love-triangle",
+        "file": "Crew-Girl-love-triangle"
+      },
+      {
+        "slug": "Crew-Girl-rowing",
+        "file": "Crew-Girl-rowing"
+      },
+      {
+        "slug": "Crew-Girl-who-does-she-end-up-with",
+        "file": "Crew-Girl-who-does-she-end-up-with"
+      }
+    ],
+    "streaming": [
+      {
+        "slug": "Crew-Girl-netflix",
+        "file": "Crew-Girl-netflix"
+      },
+      {
+        "slug": "Crew-Girl-watch-online",
+        "file": "Crew-Girl-watch-online"
+      },
+      {
+        "slug": "Crew-Girl-where-to-watch",
+        "file": "Crew-Girl-where-to-watch"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Crew-Girl-trailer",
+        "file": "Crew-Girl-trailer"
+      }
+    ]
+  },
+  "pt-BR": {
+    "cast": [
+      {
+        "slug": "Crew-Girl-actress",
+        "file": "Crew-Girl-actress"
+      },
+      {
+        "slug": "Crew-Girl-cast-ages",
+        "file": "Crew-Girl-cast-ages"
+      },
+      {
+        "slug": "Crew-Girl-cast",
+        "file": "Crew-Girl-cast"
+      },
+      {
+        "slug": "Crew-Girl-full-cast",
+        "file": "Crew-Girl-full-cast"
+      },
+      {
+        "slug": "Crew-Girl-kyle-clark",
+        "file": "Crew-Girl-kyle-clark"
+      },
+      {
+        "slug": "Crew-Girl-miku-martineau",
+        "file": "Crew-Girl-miku-martineau"
+      },
+      {
+        "slug": "Crew-Girl-netflix-cast",
+        "file": "Crew-Girl-netflix-cast"
+      },
+      {
+        "slug": "Crew-Girl-samuel-braun",
+        "file": "Crew-Girl-samuel-braun"
+      }
+    ],
+    "filming": [
+      {
+        "slug": "Crew-Girl-filmed-in-victoria",
+        "file": "Crew-Girl-filmed-in-victoria"
+      },
+      {
+        "slug": "Crew-Girl-filming-locations",
+        "file": "Crew-Girl-filming-locations"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Crew-Girl-age-rating",
+        "file": "Crew-Girl-age-rating"
+      },
+      {
+        "slug": "Crew-Girl-common-sense-media",
+        "file": "Crew-Girl-common-sense-media"
+      },
+      {
+        "slug": "Crew-Girl-episodes",
+        "file": "Crew-Girl-episodes"
+      },
+      {
+        "slug": "Crew-Girl-genre",
+        "file": "Crew-Girl-genre"
+      },
+      {
+        "slug": "Crew-Girl-parents-guide",
+        "file": "Crew-Girl-parents-guide"
+      },
+      {
+        "slug": "Crew-Girl-plot",
+        "file": "Crew-Girl-plot"
+      },
+      {
+        "slug": "Crew-Girl-synopsis",
+        "file": "Crew-Girl-synopsis"
+      },
+      {
+        "slug": "Crew-Girl-what-is-it-about",
+        "file": "Crew-Girl-what-is-it-about"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Crew-Girl-netflix-release-date",
+        "file": "Crew-Girl-netflix-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-date",
+        "file": "Crew-Girl-release-date"
+      },
+      {
+        "slug": "Crew-Girl-release-time",
+        "file": "Crew-Girl-release-time"
+      },
+      {
+        "slug": "Crew-Girl-season-1-release-date",
+        "file": "Crew-Girl-season-1-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2-release-date",
+        "file": "Crew-Girl-season-2-release-date"
+      },
+      {
+        "slug": "Crew-Girl-season-2",
+        "file": "Crew-Girl-season-2"
+      },
+      {
+        "slug": "Crew-Girl-when-does-it-come-out",
+        "file": "Crew-Girl-when-does-it-come-out"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Crew-Girl-ending-explained",
+        "file": "Crew-Girl-ending-explained"
+      },
+      {
+        "slug": "Crew-Girl-netflix-review",
+        "file": "Crew-Girl-netflix-review"
+      },
+      {
+        "slug": "Crew-Girl-rating",
+        "file": "Crew-Girl-rating"
+      },
+      {
+        "slug": "Crew-Girl-review",
+        "file": "Crew-Girl-review"
+      },
+      {
+        "slug": "Crew-Girl-rotten-tomatoes",
+        "file": "Crew-Girl-rotten-tomatoes"
+      }
+    ],
+    "story": [
+      {
+        "slug": "Crew-Girl-based-on-a-book",
+        "file": "Crew-Girl-based-on-a-book"
+      },
+      {
+        "slug": "Crew-Girl-book-ending",
+        "file": "Crew-Girl-book-ending"
+      },
+      {
+        "slug": "Crew-Girl-book",
+        "file": "Crew-Girl-book"
+      },
+      {
+        "slug": "Crew-Girl-love-triangle",
+        "file": "Crew-Girl-love-triangle"
+      },
+      {
+        "slug": "Crew-Girl-rowing",
+        "file": "Crew-Girl-rowing"
+      },
+      {
+        "slug": "Crew-Girl-who-does-she-end-up-with",
+        "file": "Crew-Girl-who-does-she-end-up-with"
+      }
+    ],
+    "streaming": [
+      {
+        "slug": "Crew-Girl-netflix",
+        "file": "Crew-Girl-netflix"
+      },
+      {
+        "slug": "Crew-Girl-watch-online",
+        "file": "Crew-Girl-watch-online"
+      },
+      {
+        "slug": "Crew-Girl-where-to-watch",
+        "file": "Crew-Girl-where-to-watch"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Crew-Girl-trailer",
+        "file": "Crew-Girl-trailer"
+      }
+    ]
+  }
+}

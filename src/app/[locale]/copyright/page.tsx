@@ -152,7 +152,7 @@ export default function Copyright() {
               The following trademarks and service marks are the property of their respective owners:
             </p>
             <ul>
-              <li><strong>STEAM</strong> - Trademark of Netflix, Inc.</li>
+              <li><strong>NETFLIX</strong> - Trademark of Netflix, Inc.</li>
               <li><strong>Crew Girl</strong> - Trademark of the series creators</li>
               <li><strong>Crew Girl Wiki</strong> - Our own branding (not affiliated with Netflix or the series creators)</li>
             </ul>

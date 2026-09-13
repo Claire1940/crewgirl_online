@@ -1,1 +1,599 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Crew Girl Wiki - Distribution, épisodes et guide de l'intrigue",
+      "description": "Découvrez la distribution, les épisodes, les rebondissements, le drame de l'aviron, les guides des personnages, les actualités de diffusion et les résumés sans spoilers de la série sportive pour adolescents de Netflix.",
+      "keywords": "Crew Girl, Netflix, distribution, épisodes, intrigue, personnages, drame de l'aviron, date de sortie",
+      "ogTitle": "Crew Girl Wiki - Distribution, épisodes et guide de l'intrigue",
+      "ogDescription": "Découvrez la distribution, les épisodes, les rebondissements, le drame de l'aviron, les guides des personnages, les actualités de diffusion et les résumés sans spoilers de la série sportive pour adolescents de Netflix.",
+      "twitterTitle": "Crew Girl Wiki - Distribution, épisodes et guide de l'intrigue",
+      "twitterDescription": "Découvrez la distribution, les épisodes, les rebondissements, le drame de l'aviron, les guides des personnages, les actualités de diffusion et les résumés sans spoilers de la série sportive pour adolescents de Netflix."
+    }
+  },
+  "nav": {
+    "guide": "Guide",
+    "cast": "Distribution",
+    "release": "Diffusion",
+    "story": "Histoire",
+    "reviews": "Critiques",
+    "streaming": "Streaming",
+    "filming": "Tournage",
+    "trailer": "Bande-annonce"
+  },
+  "common": {
+    "home": "Accueil",
+    "more": "Plus",
+    "playNow": "Regarder sur Netflix",
+    "switchLanguage": "Changer de langue",
+    "switchTheme": "Changer de thème",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "notFound": "Page introuvable",
+    "notFoundDescription": "La page que vous recherchez n'existe pas.",
+    "backToHome": "Retour à l'accueil",
+    "relatedArticles": "Articles connexes",
+    "readMore": "Lire la suite",
+    "articlesComingSoon": "Articles à venir"
+  },
+  "hero": {
+    "badge": "Drame sportif adolescent sur l'aviron",
+    "title": "Crew Girl Wiki",
+    "description": "Découvrez Crew Girl, le drame adolescent sur l'aviron de Netflix consacré à Teagan Tao, une jeune rameuse d'élite qui rejoint l'équipe d'aviron d'un pensionnat réservé aux garçons après un scandale familial. Retrouvez les résumés des épisodes, les profils des acteurs, les guides des personnages, les détails sur l'aviron, les rebondissements et les actualités de diffusion.",
+    "getEpisodeGuidesCTA": "Voir les guides des épisodes",
+    "watchOnNetflixCTA": "Regarder sur Netflix",
+    "stats": {
+      "stat1": {
+        "value": "8",
+        "label": "Épisodes disponibles"
+      },
+      "stat2": {
+        "value": "10 septembre 2026",
+        "label": "Date de sortie"
+      },
+      "stat3": {
+        "value": "TV-14",
+        "label": "Classification d'âge"
+      },
+      "stat4": {
+        "value": "Netflix",
+        "label": "Plateforme de streaming"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Crew Girl : le drame adolescent sur l'aviron de Netflix",
+    "description": "Suivez Teagan Tao alors qu'elle rejoint l'équipe d'aviron d'un pensionnat réservé aux garçons, où compétition, rivalités scolaires et drame familial s'entrechoquent au fil de huit épisodes."
+  },
+  "tools": {
+    "title": "Crew Girl",
+    "titleHighlight": "Centre du guide",
+    "subtitle": "Huit sections rapides consacrées à la distribution, aux épisodes, à l'intrigue, aux personnages, à la bande-annonce et aux bases de l'aviron dans la série",
+    "cards": [
+      {
+        "icon": "Users",
+        "title": "Distribution de Crew Girl",
+        "description": "Les acteurs qui incarnent Teagan, Josh et Cam"
+      },
+      {
+        "icon": "MonitorPlay",
+        "title": "Regarder Crew Girl en ligne",
+        "description": "Comment regarder la série en streaming sur Netflix"
+      },
+      {
+        "icon": "ListVideo",
+        "title": "Épisodes de Crew Girl",
+        "description": "Guide et résumés des épisodes de la saison 1"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Intrigue de Crew Girl",
+        "description": "Le point de départ de l'histoire sans spoilers"
+      },
+      {
+        "icon": "Flag",
+        "title": "La fin de Crew Girl expliquée",
+        "description": "Comment se conclut la finale de la Haverford Cup"
+      },
+      {
+        "icon": "Drama",
+        "title": "Personnages de Crew Girl",
+        "description": "Teagan, Josh, Cam et toute l'équipe"
+      },
+      {
+        "icon": "Clapperboard",
+        "title": "Bande-annonce de Crew Girl",
+        "description": "Regarder la bande-annonce officielle de Netflix"
+      },
+      {
+        "icon": "Waves",
+        "title": "Guide de l'aviron dans Crew Girl",
+        "description": "Les termes crew, barreur et erg expliqués simplement"
+      }
+    ]
+  },
+  "modules": {
+    "crewGirlCast": {
+      "title": "Distribution de Crew Girl",
+      "eyebrow": "Guide de la distribution",
+      "displayType": "castCards",
+      "intro": "Crew Girl suit Teagan Tao alors qu'elle s'adapte à un nouvel environnement et intègre une équipe d'aviron masculine. La distribution principale réunit les personnages dont les rivalités, les amitiés et les relations font avancer la première saison.",
+      "items": [
+        {
+          "name": "Miku Martineau",
+          "role": "Teagan Tao",
+          "description": "Miku Martineau interprète Teagan Tao, le personnage central dont l'arrivée dans un nouvel environnement la conduit à rejoindre l'équipe d'aviron et à se frayer un chemin parmi de nouveaux amis et adversaires."
+        },
+        {
+          "name": "Sam Braun",
+          "role": "Josh Regis",
+          "description": "Sam Braun interprète Josh Regis, l'un des membres importants de l'intrigue consacrée à l'équipe d'aviron et des dynamiques relationnelles qui entourent Teagan."
+        },
+        {
+          "name": "Kyle Clark",
+          "role": "Cam Dillinger",
+          "description": "Kyle Clark interprète Cam Dillinger, une autre figure importante de l'histoire centrée sur l'équipe et des relations compétitives qui façonnent la saison."
+        }
+      ]
+    },
+    "crewGirlWatchOnline": {
+      "title": "Regarder Crew Girl en ligne",
+      "eyebrow": "Où regarder",
+      "displayType": "steps",
+      "intro": "Crew Girl est disponible en streaming sur Netflix. Suivez ces étapes pour trouver la série grâce à sa page officielle et commencer la saison 1.",
+      "steps": [
+        {
+          "title": "Ouvrir Netflix",
+          "description": "Rendez-vous sur Netflix, la plateforme de streaming officielle de Crew Girl, sur le web ou dans l'application."
+        },
+        {
+          "title": "Trouver Crew Girl",
+          "description": "Recherchez Crew Girl ou ouvrez sa fiche pour consulter les informations sur la série et les épisodes disponibles."
+        },
+        {
+          "title": "Commencer le visionnage",
+          "description": "Utilisez les commandes de lecture de la fiche pour lancer l'épisode 1 et poursuivre la première saison."
+        }
+      ],
+      "watchCta": "Regarder Crew Girl sur Netflix"
+    },
+    "crewGirlEpisodes": {
+      "title": "Épisodes de Crew Girl",
+      "eyebrow": "Guide des épisodes",
+      "displayType": "accordion",
+      "intro": "Le guide des épisodes permet de parcourir facilement les informations de la saison 1. Ouvrez un panneau pour en savoir plus ; les détails importants de l'intrigue restent masqués par défaut.",
+      "items": [
+        {
+          "label": "Vue d'ensemble de la saison 1",
+          "title": "Saison 1 de Crew Girl",
+          "content": "La première saison suit Teagan Tao alors qu'elle découvre un nouvel environnement, rejoint une équipe d'aviron masculine et se retrouve au cœur d'histoires de compétition, d'amitié et de romance.",
+          "spoiler": false
+        },
+        {
+          "label": "Détails des épisodes",
+          "title": "Titres, informations de diffusion et résumés",
+          "content": "Les huit épisodes sont sortis sur Netflix le 10 septembre 2026. Chaque épisode associe une course ou un arc d'entraînement à l'évolution des relations au sein de l'équipe.",
+          "spoiler": false
+        },
+        {
+          "label": "Gestion des spoilers",
+          "title": "Résumés d'intrigue dépliables",
+          "content": "Les développements de l'intrigue propres à chaque épisode sont placés derrière un indicateur de spoiler explicite, afin que vous puissiez choisir le moment où les révéler.",
+          "spoiler": true
+        }
+      ]
+    },
+    "crewGirlPlot": {
+      "title": "Intrigue de Crew Girl",
+      "eyebrow": "Vue d'ensemble de l'histoire",
+      "displayType": "cards",
+      "intro": "Crew Girl se concentre sur Teagan Tao, qui arrive dans un nouvel environnement à la suite d'un scandale familial. En rejoignant une équipe d'aviron masculine, elle doit composer avec la compétition sportive, l'évolution de ses amitiés et la tension amoureuse, tout en cherchant à forger sa propre identité.",
+      "items": [
+        {
+          "title": "Un nouveau départ",
+          "description": "Teagan Tao arrive dans un environnement inconnu après qu'un scandale familial a bouleversé le cours de sa vie."
+        },
+        {
+          "title": "Rejoindre l'équipe d'aviron",
+          "description": "Teagan intègre une équipe d'aviron masculine et découvre un cadre compétitif qui met ses capacités à l'épreuve tout en la plaçant aux côtés d'un nouveau groupe de coéquipiers."
+        },
+        {
+          "title": "Compétition, amitié et romance",
+          "description": "La saison mêle rivalité sportive scolaire, évolution des amitiés et relations amoureuses tandis que Teagan cherche sa place et son indépendance."
+        }
+      ]
+    },
+    "crewGirlEndingExplained": {
+      "title": "La fin de Crew Girl expliquée",
+      "eyebrow": "Finale de la saison 1",
+      "displayType": "steps",
+      "intro": "La finale réunit l'intrigue centrale autour de l'aviron et les conflits personnels des personnages. Parcourez les derniers chapitres dans l'ordre, de la Haverford Cup au dénouement des conflits au sein de l'équipe et de la famille.",
+      "spoilerNotice": "Spoilers à venir : les étapes ci-dessous expliquent le dénouement de la finale de la saison 1.",
+      "steps": [
+        {
+          "title": "L'équipe atteint la Haverford Cup",
+          "description": "L'arc consacré à l'aviron de la saison atteint son point culminant lors de la Haverford Cup. La compétition place l'entraînement, la confiance et la capacité de l'équipe à gérer la pression au centre de la finale."
+        },
+        {
+          "title": "La course reflète les conflits internes de l'équipe",
+          "description": "Le résultat de la Haverford Cup est lié à l'évolution de l'équipe en tant qu'unité. La pression individuelle et les désaccords doivent céder la place au timing, à la communication et à l'effort collectif."
+        },
+        {
+          "title": "Teagan, Josh et Cam affrontent les tensions de leurs relations",
+          "description": "La finale clarifie la tension émotionnelle entre Teagan, Josh et Cam. Leurs relations sont façonnées par la loyauté, la compétition et les conséquences des choix faits au cours de la saison."
+        },
+        {
+          "title": "Le conflit familial est affronté",
+          "description": "Le conflit familial de la saison est mis au jour au lieu de rester séparé de la vie scolaire et sportive de Teagan. Ce dénouement permet aux personnages d'avancer avec une compréhension plus claire de ce qu'ils se doivent les uns aux autres."
+        }
+      ]
+    },
+    "crewGirlCharacters": {
+      "title": "Personnages de Crew Girl",
+      "eyebrow": "Distribution et personnages",
+      "displayType": "characterCards",
+      "intro": "Crew Girl suit un groupe de jeunes dont les ambitions dans l'aviron sont étroitement liées à la vie scolaire, aux amitiés, à la romance et aux pressions familiales. Ces fiches présentent la place de chacun dans l'équipe et dans l'intrigue principale.",
+      "items": [
+        {
+          "name": "Teagan",
+          "category": "Protagoniste",
+          "role": "Teagan est le personnage central dont le parcours dans l'aviron relie les objectifs compétitifs de l'équipe aux conflits scolaires, relationnels et familiaux de la saison.",
+          "connections": [
+            "Josh",
+            "Cam",
+            "L'équipe d'aviron",
+            "Sa famille"
+          ]
+        },
+        {
+          "name": "Josh",
+          "category": "Conflit relationnel et sportif",
+          "role": "Josh est étroitement lié à Teagan et participe à la tension émotionnelle qui se développe parallèlement à l'intrigue compétitive de l'équipe.",
+          "connections": [
+            "Teagan",
+            "Cam",
+            "L'équipe d'aviron"
+          ]
+        },
+        {
+          "name": "Cam",
+          "category": "Conflit relationnel et sportif",
+          "role": "Cam joue un rôle important dans l'évolution des relations autour de Teagan et contribue à la pression personnelle qui pèse sur l'équipe.",
+          "connections": [
+            "Teagan",
+            "Josh",
+            "L'équipe d'aviron"
+          ]
+        },
+        {
+          "name": "Britney",
+          "category": "Membre de l'équipe",
+          "role": "Britney fait partie de l'univers scolaire de l'aviron et contribue à représenter les dynamiques interpersonnelles qui existent au sein de l'équipe au-delà du triangle amoureux principal.",
+          "connections": [
+            "Teagan",
+            "L'équipe d'aviron",
+            "La communauté scolaire"
+          ]
+        },
+        {
+          "name": "Ella Tao",
+          "category": "Membre de l'équipe",
+          "role": "Ella Tao compte parmi les figures importantes de l'équipe d'aviron et contribue à l'univers compétitif et social partagé par ses membres.",
+          "connections": [
+            "L'équipe d'aviron",
+            "La Haverford Cup",
+            "La communauté scolaire"
+          ]
+        },
+        {
+          "name": "Baloo",
+          "category": "Membre de l'équipe",
+          "role": "Baloo est associé à l'équipe d'aviron et contribue à élargir le groupe qui entoure l'évolution de Teagan en tant qu'athlète et coéquipière.",
+          "connections": [
+            "Teagan",
+            "L'équipe d'aviron",
+            "Les compétitions de l'équipe"
+          ]
+        },
+        {
+          "name": "Ryder",
+          "category": "Personnage secondaire",
+          "role": "Ryder fait partie du réseau plus large de personnages liés à l'équipe, aux relations scolaires et aux conflits qui façonnent la saison.",
+          "connections": [
+            "La communauté de l'aviron",
+            "Le cadre scolaire",
+            "L'intrigue principale"
+          ]
+        }
+      ]
+    },
+    "crewGirlTrailer": {
+      "title": "Bande-annonce de Crew Girl",
+      "eyebrow": "Bande-annonce officielle",
+      "displayType": "trailerCards",
+      "intro": "La bande-annonce officielle présente Crew Girl comme une histoire sportive centrée sur les personnages d'une jeune équipe d'aviron. Elle donne un aperçu de la pression de la compétition tout en mettant en avant les amitiés, la tension amoureuse et le conflit familial qui entourent Teagan et ses proches.",
+      "videoTitle": "Bande-annonce officielle de Crew Girl",
+      "videoDescription": "Un premier aperçu de l'équipe d'aviron, du cadre scolaire, des personnages principaux et des conflits qui traversent la saison.",
+      "watchCta": "Regarder la bande-annonce officielle sur YouTube",
+      "items": [
+        {
+          "title": "Drame sportif et relations adolescentes",
+          "description": "La série associe compétition d'aviron, récit initiatique, amitié, romance et pression familiale."
+        },
+        {
+          "title": "Le conflit principal",
+          "description": "Teagan et l'équipe doivent concilier les exigences de la saison d'aviron avec l'évolution de leurs relations, les attentes de l'équipe et les conflits qui dépassent le cadre de l'eau."
+        },
+        {
+          "title": "Présentation de la série Netflix",
+          "description": "La présentation officielle de Netflix expose Crew Girl à travers son point de départ, sa distribution principale, son univers d'aviron et les informations relatives au lancement de la première saison."
+        }
+      ]
+    },
+    "crewGirlRowingGuide": {
+      "title": "Guide de l'aviron dans Crew Girl",
+      "eyebrow": "L'aviron pour débutants",
+      "displayType": "table",
+      "intro": "Crew Girl s'appuie sur la structure de l'aviron pour montrer le travail d'équipe, la pression et le leadership. Ce guide rapide explique les rôles et les termes essentiels pour comprendre le bateau, le barreur et les scores à l'erg évoqués par l'équipe.",
+      "headers": {
+        "term": "Terme",
+        "meaning": "Définition",
+        "onTheWater": "Sur l'eau",
+        "inTheStory": "Dans l'histoire"
+      },
+      "terms": [
+        {
+          "term": "Crew",
+          "meaning": "Une équipe d'aviron et, par extension, le bateau et les athlètes qui concourent ensemble.",
+          "onTheWater": "Chaque rameur doit synchroniser son rythme, son enchaînement et sa puissance avec ceux de l'équipe pour déplacer efficacement le bateau.",
+          "inTheStory": "La structure de l'équipe rend le travail collectif et la confiance indispensables à la progression des personnages dans la compétition."
+        },
+        {
+          "term": "Position dans le bateau",
+          "meaning": "La place occupée par un rameur dans le bateau, qui détermine ses responsabilités dans l'enchaînement du coup d'aviron.",
+          "onTheWater": "Les athlètes installés à des places différentes contribuent à l'équilibre, au rythme, à la puissance et au contrôle du bateau.",
+          "inTheStory": "Les positions permettent de comprendre pourquoi les athlètes peuvent avoir des rôles différents même lorsqu'ils courent dans le même bateau."
+        },
+        {
+          "term": "Barreur",
+          "meaning": "Le membre de l'équipe qui dirige le bateau et communique avec les rameurs pendant les entraînements et les courses.",
+          "onTheWater": "Le barreur donne les consignes, aide à maintenir le rythme, gère la stratégie de course et veille à ce que l'équipe reste concentrée.",
+          "inTheStory": "Ce rôle met en évidence le leadership et la communication, deux sources récurrentes de pression au sein d'une équipe d'aviron."
+        },
+        {
+          "term": "Erg",
+          "meaning": "Un appareil d'aviron en salle utilisé pour l'entraînement et l'évaluation des performances.",
+          "onTheWater": "Les rameurs utilisent l'erg pour améliorer leur condition physique et comparer leurs performances mesurables en dehors du bateau.",
+          "inTheStory": "Les séances d'erg offrent aux personnages un moyen direct de se mesurer, de faire leurs preuves et de réagir à la pression."
+        },
+        {
+          "term": "Record personnel à l'erg",
+          "meaning": "Le meilleur résultat personnel obtenu sur un ergomètre, généralement mesuré sur une distance ou une durée donnée.",
+          "onTheWater": "Ce score constitue une référence individuelle en matière de vitesse, d'endurance et de progression à l'entraînement.",
+          "inTheStory": "Un record personnel peut influencer la confiance, les attentes liées à la sélection et la manière dont les coéquipiers évaluent le potentiel d'un athlète."
+        },
+        {
+          "term": "Coup d'aviron et rythme",
+          "meaning": "La séquence répétée de mouvements effectués par les rameurs, ensemble et selon un cycle coordonné.",
+          "onTheWater": "Un timing régulier permet à l'équipe d'appliquer sa puissance sans perturber l'équilibre ni la vitesse du bateau.",
+          "inTheStory": "Synchroniser les rythmes transforme les efforts individuels en performance collective et reflète le besoin des personnages de travailler ensemble."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Questions",
+    "titleHighlight": "fréquentes",
+    "subtitle": "Réponses rapides sur Crew Girl, le drame adolescent sur l'aviron de Netflix",
+    "questions": [
+      {
+        "question": "De quoi parle Crew Girl ?",
+        "answer": "Crew Girl est un drame adolescent sur l'aviron produit par Netflix. La série suit Teagan Tao, une jeune rameuse d'élite qui rejoint l'équipe d'aviron d'un pensionnat réservé aux garçons après un scandale familial, où compétition, amitié et romance s'entrechoquent."
+      },
+      {
+        "question": "Combien d'épisodes compte Crew Girl ?",
+        "answer": "La saison 1 de Crew Girl compte 8 épisodes, tous sortis sur Netflix le 10 septembre 2026."
+      },
+      {
+        "question": "Où regarder Crew Girl ?",
+        "answer": "Crew Girl est disponible en streaming sur Netflix. La série est classée TV-14 et proposée dans toutes les régions où Netflix est disponible."
+      },
+      {
+        "question": "Qui joue Teagan Tao dans Crew Girl ?",
+        "answer": "Miku Martineau joue Teagan Tao, tandis que Sam Braun incarne Josh Regis et Kyle Clark Cam Dillinger, complétant la distribution principale de Crew Girl."
+      },
+      {
+        "question": "Que signifie « crew » dans Crew Girl ?",
+        "answer": "En aviron, un crew désigne l'équipe d'athlètes qui propulse un même bateau. Ce sport constitue l'ossature de Crew Girl : le rythme des coups d'aviron, les scores à l'erg et les appels du barreur jouent tous un rôle dans l'histoire."
+      },
+      {
+        "question": "Crew Girl aura-t-elle d'autres épisodes ?",
+        "answer": "La saison 1 de Crew Girl est complète sur Netflix. Toute nouvelle concernant de futurs épisodes sera communiquée par les canaux officiels de Netflix et relayée dans les actualités de diffusion du site."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à regarder Crew Girl ?",
+    "description": "Regardez les 8 épisodes de Crew Girl sur Netflix et consultez le hub officiel Netflix Tudum pour retrouver des informations sur la distribution, les coulisses et la diffusion.",
+    "joinCommunity": "Netflix Tudum",
+    "joinGame": "Regarder sur Netflix"
+  },
+  "footer": {
+    "title": "Crew Girl Wiki",
+    "description": "Votre guide créé par des fans consacré à Crew Girl : résumés des épisodes, profils des acteurs et des personnages, détails sur l'aviron et actualités de diffusion de la série adolescente sur l'aviron de Netflix.",
+    "resources": "Ressources",
+    "community": "Communauté",
+    "legal": "Mentions légales",
+    "netflix": "Regarder sur Netflix",
+    "tudum": "Netflix Tudum",
+    "mediaCenter": "Centre média Netflix",
+    "trailer": "Bande-annonce officielle",
+    "about": "À propos",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyrightNotice": "Droits d'auteur",
+    "copyright": "© 2026 Crew Girl Wiki. Non affilié à Netflix ni aux créateurs de Crew Girl.",
+    "disclaimer": "Site de ressources non officiel créé par des fans."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guide de Crew Girl",
+      "description": "Des résumés d'épisodes, des explications sur l'histoire et des informations pratiques pour suivre facilement le drame adolescent sur l'aviron de Netflix dès l'épisode 1.",
+      "metaTitle": "Guide de Crew Girl - Épisodes, intrigue et bases de visionnage",
+      "metaDescription": "Guides de Crew Girl consacrés à l'intrigue, aux épisodes, aux personnages et aux termes de l'aviron de la série adolescente de Netflix, avec des résumés sans spoilers et des explications.",
+      "categoryLabel": "GUIDE DE LA SÉRIE",
+      "whatIs": "Que trouve-t-on dans le guide de Crew Girl ?",
+      "whatIsDescription": "La section Guide rassemble les résumés d'épisodes, les explications de l'histoire et les informations pratiques sur Crew Girl. Commencez par une présentation de l'intrigue sans spoilers, puis approfondissez les épisodes, la finale de la saison et les termes d'aviron employés par les personnages sur l'eau.",
+      "why": "Pourquoi utiliser le guide ?",
+      "whySteps": {
+        "step1Title": "Comprendre rapidement l'histoire",
+        "step1Description": "Découvrez en quelques minutes le point de départ avec Teagan Tao, le cadre du pensionnat et les conflits centraux de la saison.",
+        "step2Title": "Suivre chaque épisode",
+        "step2Description": "Utilisez les résumés et les explications pour suivre les courses, les relations et les rivalités de la saison 1.",
+        "step3Title": "Comprendre le contexte de l'aviron",
+        "step3Description": "Crew, barreur et scores à l'erg ne seront plus du jargon une fois chaque terme relié à l'intrigue."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Tous les guides"
+    },
+    "cast": {
+      "title": "Distribution de Crew Girl",
+      "description": "Découvrez les acteurs de Crew Girl : qui joue Teagan Tao, Josh Regis, Cam Dillinger et les autres membres de la distribution de la saison 1.",
+      "metaTitle": "Distribution de Crew Girl - Guide complet des acteurs et personnages",
+      "metaDescription": "Le guide complet de la distribution de Crew Girl : Miku Martineau, Sam Braun, Kyle Clark, Jessica Paré et les personnages qu'ils incarnent dans le drame sur l'aviron de Netflix.",
+      "categoryLabel": "DISTRIBUTION ET ACTEURS",
+      "whatIs": "Que trouve-t-on dans la section Distribution ?",
+      "whatIsDescription": "Les pages consacrées à la distribution présentent les acteurs de Crew Girl, les personnages qu'ils incarnent et leurs précédents travaux. Chaque profil distingue la carrière réelle de l'acteur de l'histoire de son personnage, tout en reliant les deux pour passer facilement d'un visage à l'intrigue.",
+      "why": "Pourquoi parcourir la distribution ?",
+      "whySteps": {
+        "step1Title": "Mettre un nom sur chaque visage",
+        "step1Description": "Associez chaque personnage présent sur l'eau à l'acteur qui l'interprète, de Teagan Tao au reste de l'équipe.",
+        "step2Title": "Découvrir leurs autres œuvres",
+        "step2Description": "Retrouvez les séries et les films dans lesquels les acteurs de Crew Girl sont apparus avant et après cette série.",
+        "step3Title": "Relier acteurs et personnages",
+        "step3Description": "Les liens réciproques entre les profils des acteurs et les pages des personnages facilitent le passage de la distribution à l'histoire."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Tous les profils des acteurs"
+    },
+    "release": {
+      "title": "Diffusion de Crew Girl",
+      "description": "Dates de sortie, disponibilité en streaming et actualités de la saison de Crew Girl, réunies dans une seule chronologie.",
+      "metaTitle": "Date de sortie de Crew Girl - Saison 1 sur Netflix et actualités",
+      "metaDescription": "Quand Crew Girl est-elle sortie ? La saison 1 est arrivée sur Netflix le 10 septembre 2026. Suivez ici les dates de sortie, la disponibilité et les informations sur les futures saisons.",
+      "categoryLabel": "INFORMATIONS DE DIFFUSION",
+      "whatIs": "Que trouve-t-on dans la section Diffusion ?",
+      "whatIsDescription": "Les pages consacrées à la diffusion suivent tout ce qui concerne Crew Girl dans le temps : le lancement de la saison 1 le 10 septembre 2026, la disponibilité en streaming selon les régions et les éventuelles annonces de futures saisons provenant de sources officielles.",
+      "why": "Pourquoi suivre les actualités de diffusion ?",
+      "whySteps": {
+        "step1Title": "Connaître les dates importantes",
+        "step1Description": "La première saison complète est sortie le 10 septembre 2026, et la chronologie présente chaque étape dans l'ordre.",
+        "step2Title": "Vérifier la disponibilité",
+        "step2Description": "Découvrez comment et où regarder Crew Girl en streaming pour commencer sans perdre de temps à chercher.",
+        "step3Title": "Ne pas manquer les nouvelles de la saison",
+        "step3Description": "Si Netflix annonce de nouveaux épisodes de Crew Girl, la chronologie sera la première à relayer l'information."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Toutes les actualités de diffusion"
+    },
+    "story": {
+      "title": "Histoire de Crew Girl",
+      "description": "L'histoire de Crew Girl expliquée : le nouveau départ de Teagan, l'équipe masculine d'aviron et les relations qui façonnent la saison 1.",
+      "metaTitle": "Histoire de Crew Girl - Intrigue, triangle amoureux et fin",
+      "metaDescription": "L'histoire de Crew Girl expliquée : l'arrivée de Teagan Tao après un scandale familial, sa vie dans l'équipe masculine d'aviron, le triangle amoureux et la fin de la saison 1.",
+      "categoryLabel": "HISTOIRE ET INTRIGUE",
+      "whatIs": "Que trouve-t-on dans la section Histoire ?",
+      "whatIsDescription": "Les pages consacrées à l'histoire expliquent l'arc narratif de Crew Girl étape par étape : le scandale familial qui bouleverse la vie de Teagan Tao, son arrivée dans l'équipe masculine d'aviron d'Easton Prep, la rivalité et la romance autour de Josh et Cam, ainsi que la manière dont la finale de la Haverford Cup réunit tous ces éléments.",
+      "why": "Pourquoi lire les explications de l'histoire ?",
+      "whySteps": {
+        "step1Title": "Avoir une vision d'ensemble",
+        "step1Description": "Découvrez comment la saison d'aviron, l'année scolaire et le conflit familial s'inscrivent dans une même histoire.",
+        "step2Title": "Démêler les relations",
+        "step2Description": "La dynamique entre Teagan, Josh et Cam fait avancer la saison ; les explications suivent chacune de ses évolutions.",
+        "step3Title": "Choisir votre niveau de spoilers",
+        "step3Description": "Les résumés sans spoilers et les explications complètes de la fin sont séparés afin que vous ne lisiez que ce que vous souhaitez."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Tous les articles sur l'histoire"
+    },
+    "reviews": {
+      "title": "Critiques de Crew Girl",
+      "description": "Ce que les spectateurs et les critiques disent de Crew Girl, ainsi que le public auquel le drame adolescent sur l'aviron s'adresse le mieux.",
+      "metaTitle": "Critiques de Crew Girl - Le drame de Netflix vaut-il le détour ?",
+      "metaDescription": "Critiques et conseils de visionnage sur Crew Girl : comment la série mêle compétition d'aviron, drame scolaire et relations adolescentes, et à quel public elle plaira le plus.",
+      "categoryLabel": "CRITIQUES ET NOTES",
+      "whatIs": "Que trouve-t-on dans la section Critiques ?",
+      "whatIsDescription": "Les pages de critiques examinent Crew Girl en tant que drame sportif adolescent : le mélange d'action sur l'eau, de rivalité scolaire et de romance, la classification TV-14 et le type de public auquel chaque élément est susceptible de plaire.",
+      "why": "Pourquoi consulter les critiques ?",
+      "whySteps": {
+        "step1Title": "Savoir si la série vous correspond",
+        "step1Description": "Découvrez comment Crew Girl équilibre compétition sportive et récit initiatique avant de vous lancer dans les huit épisodes.",
+        "step2Title": "Comprendre la classification",
+        "step2Description": "La classification TV-14 et son contexte aident les parents et les jeunes spectateurs à choisir le bon moment pour regarder la série.",
+        "step3Title": "Trouver votre point d'entrée",
+        "step3Description": "Que vous veniez pour l'aviron, le drame scolaire ou les relations entre les personnages, les critiques indiquent ce que chaque type de spectateur peut y trouver."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Toutes les critiques"
+    },
+    "streaming": {
+      "title": "Crew Girl en streaming",
+      "description": "Où regarder Crew Girl : disponibilité sur Netflix, options via l'application et le web, et moyen le plus rapide de lancer l'épisode 1.",
+      "metaTitle": "Crew Girl en streaming - Où regarder la série Netflix",
+      "metaDescription": "Crew Girl est disponible sur Netflix. Trouvez la fiche de la série, vérifiez les options sur l'application et le web et commencez à regarder le drame adolescent sur l'aviron en quelques minutes.",
+      "categoryLabel": "OÙ REGARDER",
+      "whatIs": "Que trouve-t-on dans la section Streaming ?",
+      "whatIsDescription": "Les pages consacrées au streaming couvrent l'aspect pratique du visionnage de Crew Girl : trouver la fiche officielle sur Netflix, utiliser le lecteur web ou les applications mobiles et TV, puis passer de la recherche à l'épisode 1 en un minimum d'étapes.",
+      "why": "Pourquoi utiliser les pages Streaming ?",
+      "whySteps": {
+        "step1Title": "Aller directement à la source",
+        "step1Description": "Crew Girl est disponible depuis sa fiche officielle Netflix, et les liens proposés ici vous y conduisent directement.",
+        "step2Title": "Regarder sur n'importe quel écran",
+        "step2Description": "Les parcours via le web, le mobile et l'application TV mènent tous à la même série, avec des indications pour chacun.",
+        "step3Title": "Commencer plus rapidement",
+        "step3Description": "Un parcours en trois étapes, de l'ouverture de Netflix au lancement de l'épisode 1, sans détour."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Tous les guides de streaming"
+    },
+    "filming": {
+      "title": "Tournage de Crew Girl",
+      "description": "Où Crew Girl a-t-elle été tournée ? Découvrez les lieux de Victoria, en Colombie-Britannique, qui servent de décor à Easton Prep, au hangar à bateaux et aux scènes sur l'eau.",
+      "metaTitle": "Lieux de tournage de Crew Girl - Où le drame de Netflix a-t-il été tourné ?",
+      "metaDescription": "Crew Girl a été tournée à Victoria, en Colombie-Britannique. Découvrez les véritables écoles, hangars à bateaux et lieux au bord de l'eau qui représentent Easton Prep et son univers d'aviron.",
+      "categoryLabel": "LIEUX DE TOURNAGE",
+      "whatIs": "Que trouve-t-on dans la section Tournage ?",
+      "whatIsDescription": "Les pages consacrées au tournage distinguent l'univers fictif de Crew Girl des lieux réels qui le représentent : les sites de Victoria, en Colombie-Britannique, utilisés pour Easton Prep, le hangar à bateaux et les eaux d'entraînement, ainsi que la mise en scène des séquences sur l'eau.",
+      "why": "Pourquoi découvrir les lieux de tournage ?",
+      "whySteps": {
+        "step1Title": "Voir les vrais lieux",
+        "step1Description": "Reliez les couloirs de l'école et le hangar à bateaux aperçus à l'écran aux lieux de Victoria qui leur servent de décor.",
+        "step2Title": "Distinguer fiction et réalité",
+        "step2Description": "Les pages séparent clairement le cadre fictif d'Easton Prep des véritables sites de tournage.",
+        "step3Title": "Mieux comprendre les scènes d'aviron",
+        "step3Description": "Savoir où les scènes sur l'eau ont été tournées permet de mieux visualiser les courses à l'écran."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Tous les articles sur le tournage"
+    },
+    "trailer": {
+      "title": "Bande-annonce de Crew Girl",
+      "description": "Regardez la bande-annonce et le teaser officiels de Crew Girl proposés par Netflix, avec une analyse de ce que révèle chaque aperçu.",
+      "metaTitle": "Bande-annonce de Crew Girl - Regarder l'aperçu officiel de Netflix",
+      "metaDescription": "Regardez la bande-annonce officielle de Crew Girl sur Netflix. Découvrez l'équipe d'aviron, le cadre scolaire et les conflits au cœur du drame adolescent.",
+      "categoryLabel": "BANDE-ANNONCE OFFICIELLE",
+      "whatIs": "Que trouve-t-on dans la section Bande-annonce ?",
+      "whatIsDescription": "Les pages consacrées aux bandes-annonces rassemblent les aperçus officiels de Crew Girl proposés par Netflix, du premier teaser à la bande-annonce complète, accompagnés de courtes analyses des personnages, des courses et des éléments d'intrigue révélés par chacun.",
+      "why": "Pourquoi regarder les bandes-annonces ici ?",
+      "whySteps": {
+        "step1Title": "Avoir un aperçu avant de regarder",
+        "step1Description": "La bande-annonce présente l'équipe d'aviron, l'école et les relations principales en moins de trois minutes.",
+        "step2Title": "Savoir ce que révèle chaque aperçu",
+        "step2Description": "Les analyses indiquent quels personnages et quels éléments de l'histoire apparaissent dans chaque aperçu officiel.",
+        "step3Title": "Retrouver les sources officielles",
+        "step3Description": "Chaque bande-annonce renvoie aux canaux officiels de Netflix, afin que vous puissiez la regarder telle qu'elle a été publiée."
+      },
+      "featured": "À la une et essentiel",
+      "all": "Toutes les bandes-annonces"
+    }
+  }
+}

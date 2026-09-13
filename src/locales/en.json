@@ -39,8 +39,8 @@
     "badge": "Teen Rowing Sports Drama",
     "title": "Crew Girl Wiki",
     "description": "Explore Crew Girl, Netflix's teen rowing drama about Teagan Tao, an elite young sculler who joins an all-boys prep-school crew team after a family scandal. Find episode recaps, cast profiles, character guides, rowing details, plot twists, and release news.",
-    "getFreeCodesCTA": "Get Episode Guides",
-    "playOnRobloxCTA": "Watch on Netflix",
+    "getEpisodeGuidesCTA": "Get Episode Guides",
+    "watchOnNetflixCTA": "Watch on Netflix",
     "stats": {
       "stat1": {
         "value": "8",

@@ -1,1 +1,599 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki de Crew Girl - Guía del reparto, episodios y trama",
+      "description": "Explora el reparto, los episodios, los giros argumentales, el drama del remo, las guías de personajes, las noticias de estreno y los resúmenes sin spoilers de la serie deportiva juvenil de Netflix.",
+      "keywords": "Crew Girl, Netflix, reparto, episodios, trama, personajes, drama de remo, fecha de estreno",
+      "ogTitle": "Wiki de Crew Girl - Guía del reparto, episodios y trama",
+      "ogDescription": "Explora el reparto, los episodios, los giros argumentales, el drama del remo, las guías de personajes, las noticias de estreno y los resúmenes sin spoilers de la serie deportiva juvenil de Netflix.",
+      "twitterTitle": "Wiki de Crew Girl - Guía del reparto, episodios y trama",
+      "twitterDescription": "Explora el reparto, los episodios, los giros argumentales, el drama del remo, las guías de personajes, las noticias de estreno y los resúmenes sin spoilers de la serie deportiva juvenil de Netflix."
+    }
+  },
+  "nav": {
+    "guide": "Guía",
+    "cast": "Reparto",
+    "release": "Estreno",
+    "story": "Historia",
+    "reviews": "Reseñas",
+    "streaming": "Streaming",
+    "filming": "Rodaje",
+    "trailer": "Tráiler"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Ver en Netflix",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Próximamente, más artículos"
+  },
+  "hero": {
+    "badge": "Drama deportivo juvenil sobre remo",
+    "title": "Wiki de Crew Girl",
+    "description": "Explora Crew Girl, el drama juvenil de remo de Netflix sobre Teagan Tao, una joven remera de élite que se une al equipo de remo de un internado masculino después de un escándalo familiar. Encuentra resúmenes de episodios, perfiles del reparto, guías de personajes, detalles sobre el remo, giros argumentales y noticias de estreno.",
+    "getEpisodeGuidesCTA": "Ver las guías de episodios",
+    "watchOnNetflixCTA": "Ver en Netflix",
+    "stats": {
+      "stat1": {
+        "value": "8",
+        "label": "Episodios disponibles"
+      },
+      "stat2": {
+        "value": "10 de septiembre de 2026",
+        "label": "Fecha de estreno"
+      },
+      "stat3": {
+        "value": "TV-14",
+        "label": "Clasificación por edad"
+      },
+      "stat4": {
+        "value": "Netflix",
+        "label": "Plataforma de streaming"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Crew Girl: el drama juvenil de remo de Netflix",
+    "description": "Sigue a Teagan Tao mientras se une al equipo de remo de un internado masculino, donde la competición, las rivalidades escolares y los conflictos familiares chocan a lo largo de ocho episodios."
+  },
+  "tools": {
+    "title": "Crew Girl",
+    "titleHighlight": "Centro de guías",
+    "subtitle": "Ocho secciones rápidas sobre el reparto, los episodios, la trama, los personajes, el tráiler y los fundamentos del remo en la serie",
+    "cards": [
+      {
+        "icon": "Users",
+        "title": "Reparto de Crew Girl",
+        "description": "Los actores que interpretan a Teagan, Josh y Cam"
+      },
+      {
+        "icon": "MonitorPlay",
+        "title": "Ver Crew Girl en línea",
+        "description": "Cómo ver la serie en streaming en Netflix"
+      },
+      {
+        "icon": "ListVideo",
+        "title": "Episodios de Crew Girl",
+        "description": "Guía y resúmenes de los episodios de la temporada 1"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Trama de Crew Girl",
+        "description": "La premisa de la historia sin spoilers"
+      },
+      {
+        "icon": "Flag",
+        "title": "Final de Crew Girl explicado",
+        "description": "Cómo se resuelve el desenlace de la Haverford Cup"
+      },
+      {
+        "icon": "Drama",
+        "title": "Personajes de Crew Girl",
+        "description": "Teagan, Josh, Cam y todo el equipo"
+      },
+      {
+        "icon": "Clapperboard",
+        "title": "Tráiler de Crew Girl",
+        "description": "Mira el tráiler oficial de Netflix"
+      },
+      {
+        "icon": "Waves",
+        "title": "Guía de remo de Crew Girl",
+        "description": "Términos de equipo, timonel y erg explicados de forma sencilla"
+      }
+    ]
+  },
+  "modules": {
+    "crewGirlCast": {
+      "title": "Reparto de Crew Girl",
+      "eyebrow": "Guía del reparto",
+      "displayType": "castCards",
+      "intro": "Crew Girl sigue a Teagan Tao mientras se adapta a un entorno nuevo y pasa a formar parte de un equipo masculino de remo. El reparto principal reúne a los personajes cuyas rivalidades, amistades y relaciones impulsan la primera temporada.",
+      "items": [
+        {
+          "name": "Miku Martineau",
+          "role": "Teagan Tao",
+          "description": "Miku Martineau interpreta a Teagan Tao, el personaje central cuya llegada a un entorno nuevo la lleva a unirse al equipo de remo y a desenvolverse entre un nuevo círculo de amistades y competidores."
+        },
+        {
+          "name": "Sam Braun",
+          "role": "Josh Regis",
+          "description": "Sam Braun interpreta a Josh Regis, uno de los miembros clave de la trama del equipo de remo y parte de las dinámicas interpersonales que rodean a Teagan."
+        },
+        {
+          "name": "Kyle Clark",
+          "role": "Cam Dillinger",
+          "description": "Kyle Clark interpreta a Cam Dillinger, otra figura destacada de la historia centrada en el equipo y de las relaciones competitivas que dan forma a la temporada."
+        }
+      ]
+    },
+    "crewGirlWatchOnline": {
+      "title": "Ver Crew Girl en línea",
+      "eyebrow": "Dónde verla",
+      "displayType": "steps",
+      "intro": "Crew Girl está disponible en streaming en Netflix. Sigue estos pasos para encontrar la serie mediante su página oficial y empezar a ver la temporada 1.",
+      "steps": [
+        {
+          "title": "Abre Netflix",
+          "description": "Ve a Netflix, la plataforma oficial de streaming de Crew Girl, desde la web o la aplicación."
+        },
+        {
+          "title": "Busca Crew Girl",
+          "description": "Busca Crew Girl o abre su ficha para consultar la información de la serie y los episodios disponibles."
+        },
+        {
+          "title": "Empieza a verla",
+          "description": "Usa los controles de reproducción de la ficha para comenzar el episodio 1 y continuar con la primera temporada."
+        }
+      ],
+      "watchCta": "Ver Crew Girl en Netflix"
+    },
+    "crewGirlEpisodes": {
+      "title": "Episodios de Crew Girl",
+      "eyebrow": "Guía de episodios",
+      "displayType": "accordion",
+      "intro": "La guía de episodios permite consultar fácilmente los detalles de la temporada 1. Abre un panel para obtener más información; los detalles argumentales con spoilers permanecen ocultos de forma predeterminada.",
+      "items": [
+        {
+          "label": "Resumen de la temporada 1",
+          "title": "Temporada 1 de Crew Girl",
+          "content": "La primera temporada sigue a Teagan Tao mientras entra en un entorno nuevo, se une a un equipo masculino de remo y se ve envuelta en historias de competición, amistad y romance.",
+          "spoiler": false
+        },
+        {
+          "label": "Detalles de los episodios",
+          "title": "Títulos, información de estreno y resúmenes",
+          "content": "Los ocho episodios llegaron a Netflix el 10 de septiembre de 2026. Cada episodio combina una carrera o un arco de entrenamiento con la evolución de las relaciones en torno al equipo.",
+          "spoiler": false
+        },
+        {
+          "label": "Gestión de spoilers",
+          "title": "Resúmenes de la historia desplegables",
+          "content": "Los acontecimientos argumentales de cada episodio aparecen detrás de un indicador explícito de spoilers, para que puedas decidir cuándo revelar los detalles de la historia.",
+          "spoiler": true
+        }
+      ]
+    },
+    "crewGirlPlot": {
+      "title": "Trama de Crew Girl",
+      "eyebrow": "Resumen de la historia",
+      "displayType": "cards",
+      "intro": "Crew Girl se centra en Teagan Tao, que se muda a un entorno nuevo debido a un escándalo familiar. Al unirse a un equipo masculino de remo, debe desenvolverse entre la competición deportiva, unas amistades cambiantes y la tensión romántica mientras intenta forjar su propia identidad.",
+      "items": [
+        {
+          "title": "Un nuevo comienzo",
+          "description": "Teagan Tao llega a un entorno desconocido después de que un escándalo familiar cambie el rumbo de su vida."
+        },
+        {
+          "title": "Unirse al equipo de remo",
+          "description": "Teagan pasa a formar parte de un equipo masculino de remo y entra en un ambiente competitivo que pone a prueba sus habilidades y la sitúa junto a un nuevo grupo de compañeros."
+        },
+        {
+          "title": "Competición, amistad y romance",
+          "description": "La temporada combina la rivalidad deportiva escolar con amistades y relaciones románticas que evolucionan mientras Teagan busca sentirse aceptada y ser independiente."
+        }
+      ]
+    },
+    "crewGirlEndingExplained": {
+      "title": "Final de Crew Girl explicado",
+      "eyebrow": "Final de la temporada 1",
+      "displayType": "steps",
+      "intro": "El final reúne la trama central del remo y los conflictos personales de los personajes. Repasa los capítulos finales en orden, desde la Haverford Cup hasta la resolución de los conflictos del equipo y la familia.",
+      "spoilerNotice": "Aviso de spoilers: los pasos siguientes explican cómo se resuelve el final de la temporada 1.",
+      "steps": [
+        {
+          "title": "El equipo llega a la Haverford Cup",
+          "description": "El arco de remo de la temporada culmina en la Haverford Cup. La competición sitúa en el centro del desenlace el entrenamiento, la confianza y la capacidad del equipo para rendir bajo presión."
+        },
+        {
+          "title": "La carrera refleja el conflicto interno del equipo",
+          "description": "El resultado de la Haverford Cup está ligado a la evolución del equipo como unidad. La presión individual y los desacuerdos deben ceder ante la sincronización, la comunicación y el esfuerzo colectivo."
+        },
+        {
+          "title": "Teagan, Josh y Cam afrontan la tensión de su relación",
+          "description": "El final aclara la tensión emocional entre Teagan, Josh y Cam. Sus relaciones están marcadas por la lealtad, la competición y las consecuencias de las decisiones tomadas durante la temporada."
+        },
+        {
+          "title": "El conflicto familiar sale a la luz",
+          "description": "El conflicto familiar de la temporada se afronta abiertamente, en lugar de mantenerse separado de la vida escolar y deportiva de Teagan. La resolución permite a los personajes seguir adelante con una comprensión más clara de lo que se deben unos a otros."
+        }
+      ]
+    },
+    "crewGirlCharacters": {
+      "title": "Personajes de Crew Girl",
+      "eyebrow": "Reparto y personajes",
+      "displayType": "characterCards",
+      "intro": "Crew Girl sigue a un grupo de jóvenes cuyas ambiciones en el remo están estrechamente vinculadas a la vida escolar, las amistades, el romance y la presión familiar. Estas fichas explican el lugar de cada persona en el equipo y en la trama principal.",
+      "items": [
+        {
+          "name": "Teagan",
+          "category": "Protagonista",
+          "role": "Teagan es el personaje central, y su trayectoria en el remo conecta los objetivos competitivos del equipo con los conflictos escolares, sentimentales y familiares de la temporada.",
+          "connections": [
+            "Josh",
+            "Cam",
+            "El equipo de remo",
+            "Su familia"
+          ]
+        },
+        {
+          "name": "Josh",
+          "category": "Conflicto sentimental y del equipo",
+          "role": "Josh está estrechamente relacionado con Teagan y forma parte de la tensión emocional que se desarrolla junto a la trama competitiva del equipo.",
+          "connections": [
+            "Teagan",
+            "Cam",
+            "El equipo de remo"
+          ]
+        },
+        {
+          "name": "Cam",
+          "category": "Conflicto sentimental y del equipo",
+          "role": "Cam desempeña un papel importante en las relaciones cambiantes en torno a Teagan y contribuye a la presión personal que rodea al equipo.",
+          "connections": [
+            "Teagan",
+            "Josh",
+            "El equipo de remo"
+          ]
+        },
+        {
+          "name": "Britney",
+          "category": "Miembro del equipo",
+          "role": "Britney forma parte del entorno escolar del remo y ayuda a representar las dinámicas interpersonales que existen dentro del equipo más allá del triángulo sentimental principal.",
+          "connections": [
+            "Teagan",
+            "El equipo de remo",
+            "La comunidad escolar"
+          ]
+        },
+        {
+          "name": "Ella Tao",
+          "category": "Miembro del equipo",
+          "role": "Ella Tao es una de las figuras importantes del equipo de remo y contribuye al mundo competitivo y social que comparten sus integrantes.",
+          "connections": [
+            "El equipo de remo",
+            "La Haverford Cup",
+            "La comunidad escolar"
+          ]
+        },
+        {
+          "name": "Baloo",
+          "category": "Miembro del equipo",
+          "role": "Baloo está vinculado al equipo de remo y ayuda a ampliar el conjunto de personajes que rodea la evolución de Teagan como atleta y compañera.",
+          "connections": [
+            "Teagan",
+            "El equipo de remo",
+            "Las competiciones del equipo"
+          ]
+        },
+        {
+          "name": "Ryder",
+          "category": "Personaje secundario",
+          "role": "Ryder forma parte de la red más amplia de personajes relacionada con el equipo, las relaciones escolares y los conflictos que dan forma a la temporada.",
+          "connections": [
+            "La comunidad del remo",
+            "El entorno escolar",
+            "La trama principal"
+          ]
+        }
+      ]
+    },
+    "crewGirlTrailer": {
+      "title": "Tráiler de Crew Girl",
+      "eyebrow": "Tráiler oficial",
+      "displayType": "trailerCards",
+      "intro": "El tráiler oficial presenta Crew Girl como una historia deportiva centrada en los personajes de un joven equipo de remo. Anticipa la presión de la competición y destaca las amistades, la tensión romántica y el conflicto familiar que rodean a Teagan y a las personas más cercanas a ella.",
+      "videoTitle": "Tráiler oficial de Crew Girl",
+      "videoDescription": "Un primer vistazo al equipo de remo de la serie, el entorno escolar, los personajes principales y los conflictos que se desarrollan durante toda la temporada.",
+      "watchCta": "Ver el tráiler oficial en YouTube",
+      "items": [
+        {
+          "title": "Drama deportivo con relaciones juveniles",
+          "description": "La serie combina el remo competitivo con un drama de iniciación, amistad, romance y presión familiar."
+        },
+        {
+          "title": "El conflicto principal",
+          "description": "Teagan y el equipo deben compaginar las exigencias de la temporada de remo con unas relaciones cambiantes, las expectativas del equipo y los conflictos que van más allá del agua."
+        },
+        {
+          "title": "Presentación de la serie de Netflix",
+          "description": "La cobertura oficial de Netflix presenta Crew Girl a través de su premisa, el reparto principal, el entorno del remo y la información del estreno de la primera temporada."
+        }
+      ]
+    },
+    "crewGirlRowingGuide": {
+      "title": "Guía de remo de Crew Girl",
+      "eyebrow": "Introducción al remo",
+      "displayType": "table",
+      "intro": "Crew Girl utiliza la estructura del remo para mostrar el trabajo en equipo, la presión y el liderazgo. Esta guía rápida explica los papeles y términos básicos que los espectadores necesitan para entender la embarcación, el timonel y las marcas del erg que comenta el equipo.",
+      "headers": {
+        "term": "Término",
+        "meaning": "Qué significa",
+        "onTheWater": "En el agua",
+        "inTheStory": "En la historia"
+      },
+      "terms": [
+        {
+          "term": "Equipo",
+          "meaning": "Un equipo de remo y, por extensión, la embarcación y los atletas que compiten juntos.",
+          "onTheWater": "Cada remero debe acompasar su ritmo, secuencia y potencia al equipo para mover la embarcación con eficacia.",
+          "inTheStory": "La estructura del equipo hace que el trabajo conjunto y la confianza sean esenciales para el progreso competitivo de los personajes."
+        },
+        {
+          "term": "Posición en el bote",
+          "meaning": "El lugar que ocupa un remero en la embarcación, que determina sus responsabilidades dentro de la secuencia de la palada.",
+          "onTheWater": "Los atletas de los distintos asientos contribuyen al equilibrio, el ritmo, la potencia y el control de la embarcación.",
+          "inTheStory": "La posición ayuda a explicar por qué los atletas pueden tener funciones diferentes aunque compitan en el mismo bote."
+        },
+        {
+          "term": "Timonel",
+          "meaning": "El miembro del equipo que dirige la embarcación y se comunica con los remeros durante los entrenamientos y las carreras.",
+          "onTheWater": "El timonel da órdenes, ayuda a mantener el ritmo, gestiona la estrategia de la carrera y mantiene concentrado al equipo.",
+          "inTheStory": "Este papel pone de relieve el liderazgo y la comunicación, dos fuentes recurrentes de presión dentro de un equipo de remo."
+        },
+        {
+          "term": "Erg",
+          "meaning": "Una máquina de remo de interior utilizada para entrenar y evaluar el rendimiento.",
+          "onTheWater": "Los remeros utilizan el erg para mejorar su forma física y comparar su rendimiento medible fuera de la embarcación.",
+          "inTheStory": "Las sesiones de erg ofrecen a los personajes una forma directa de competir, demostrar su valía y responder a la presión."
+        },
+        {
+          "term": "Marca personal en el erg",
+          "meaning": "El récord personal de un remero en un ergómetro, normalmente medido sobre una distancia o durante un tiempo determinados.",
+          "onTheWater": "La marca proporciona una referencia individual de velocidad, resistencia y progreso en el entrenamiento.",
+          "inTheStory": "Una marca personal puede influir en la confianza, las expectativas de selección y la forma en que los compañeros valoran el potencial de un atleta."
+        },
+        {
+          "term": "Palada y ritmo",
+          "meaning": "La secuencia repetida de movimientos que realizan los remeros, juntos y como un ciclo coordinado.",
+          "onTheWater": "Un ritmo constante permite al equipo aplicar potencia sin alterar el equilibrio ni la velocidad de la embarcación.",
+          "inTheStory": "Sincronizar el ritmo convierte el esfuerzo individual en rendimiento colectivo y refleja la necesidad de los personajes de trabajar juntos."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Respuestas rápidas sobre Crew Girl, el drama juvenil de remo de Netflix",
+    "questions": [
+      {
+        "question": "¿De qué trata Crew Girl?",
+        "answer": "Crew Girl es un drama juvenil de remo de Netflix sobre Teagan Tao, una joven remera de élite que se une al equipo de remo de un internado masculino después de un escándalo familiar, donde la competición, la amistad y el romance chocan."
+      },
+      {
+        "question": "¿Cuántos episodios tiene Crew Girl?",
+        "answer": "La temporada 1 de Crew Girl tiene 8 episodios, todos estrenados en Netflix el 10 de septiembre de 2026."
+      },
+      {
+        "question": "¿Dónde puedo ver Crew Girl?",
+        "answer": "Crew Girl está disponible en streaming en Netflix. La serie tiene clasificación TV-14 y está disponible en todas las regiones donde opera Netflix."
+      },
+      {
+        "question": "¿Quién interpreta a Teagan Tao en Crew Girl?",
+        "answer": "Miku Martineau interpreta a Teagan Tao, mientras que Sam Braun interpreta a Josh Regis y Kyle Clark a Cam Dillinger, completando el reparto principal de Crew Girl."
+      },
+      {
+        "question": "¿Qué significa «crew» en Crew Girl?",
+        "answer": "En el remo, un crew es el equipo de atletas que impulsa una embarcación. Este deporte constituye la base de Crew Girl: el ritmo de la palada, las marcas del erg y las órdenes del timonel son elementos importantes de la historia."
+      },
+      {
+        "question": "¿Tendrá Crew Girl más episodios?",
+        "answer": "La temporada 1 de Crew Girl está completa en Netflix. Cualquier noticia sobre futuros episodios llegará a través de los canales oficiales de Netflix y se cubrirá en las actualizaciones de Estreno del sitio."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para empezar a ver Crew Girl?",
+    "description": "Mira los 8 episodios de Crew Girl en Netflix y explora el centro oficial de Tudum para conocer noticias sobre el reparto, el detrás de cámaras y el estreno.",
+    "joinCommunity": "Netflix Tudum",
+    "joinGame": "Ver en Netflix"
+  },
+  "footer": {
+    "title": "Wiki de Crew Girl",
+    "description": "Tu guía hecha por fans sobre Crew Girl: resúmenes de episodios, perfiles del reparto y los personajes, detalles del remo y noticias de estreno del drama juvenil de remo de Netflix.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "netflix": "Ver en Netflix",
+    "tudum": "Netflix Tudum",
+    "mediaCenter": "Centro de prensa de Netflix",
+    "trailer": "Tráiler oficial",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "copyrightNotice": "Derechos de autor",
+    "copyright": "© 2026 Wiki de Crew Girl. No está afiliada a Netflix ni a los creadores de Crew Girl.",
+    "disclaimer": "Sitio web no oficial de información creado por fans."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guía de Crew Girl",
+      "description": "Resúmenes de episodios, explicaciones de la historia y conceptos básicos para seguir fácilmente el drama juvenil de remo de Netflix desde el episodio 1.",
+      "metaTitle": "Guía de Crew Girl - Episodios, trama y conceptos básicos",
+      "metaDescription": "Guías de Crew Girl sobre la trama, los episodios, los personajes y los términos de remo del drama juvenil de Netflix, con resúmenes y explicaciones sin spoilers.",
+      "categoryLabel": "GUÍA DE LA SERIE",
+      "whatIs": "¿Qué es la guía de Crew Girl?",
+      "whatIsDescription": "La sección de guías reúne resúmenes de episodios, explicaciones de la historia y conceptos básicos para ver Crew Girl. Empieza con un resumen de la premisa sin spoilers y luego profundiza en episodios concretos, el final de la temporada y los términos de remo que utilizan los personajes en el agua.",
+      "why": "¿Por qué usar la guía?",
+      "whySteps": {
+        "step1Title": "Entiende rápido la historia",
+        "step1Description": "Conoce en pocos minutos la premisa de Teagan Tao, el entorno del internado y los conflictos centrales de la temporada.",
+        "step2Title": "Sigue todos los episodios",
+        "step2Description": "Usa los resúmenes y las explicaciones para seguir las carreras, las relaciones y las rivalidades de la temporada 1.",
+        "step3Title": "Conoce el contexto del remo",
+        "step3Description": "Crew, timonel y marcas del erg dejan de ser jerga cuando cada término se relaciona con la trama."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías"
+    },
+    "cast": {
+      "title": "Reparto de Crew Girl",
+      "description": "Conoce a los actores de Crew Girl: quién interpreta a Teagan Tao, Josh Regis, Cam Dillinger y al resto del reparto de la temporada 1.",
+      "metaTitle": "Reparto de Crew Girl - Guía completa de actores y personajes",
+      "metaDescription": "La guía completa del reparto de Crew Girl: Miku Martineau, Sam Braun, Kyle Clark, Jessica Paré y los personajes que interpretan en el drama de remo de Netflix.",
+      "categoryLabel": "REPARTO Y ACTORES",
+      "whatIs": "¿Qué hay en la sección del reparto?",
+      "whatIsDescription": "Las páginas del reparto presentan a los actores reales de Crew Girl, los personajes que interpretan y sus trabajos anteriores. Cada perfil mantiene separadas la trayectoria real del actor y la historia del personaje, con un enlace entre ambas para que puedas pasar del rostro a la trama.",
+      "why": "¿Por qué consultar el reparto?",
+      "whySteps": {
+        "step1Title": "Pon nombre a cada rostro",
+        "step1Description": "Relaciona cada personaje en el agua con el actor que lo interpreta, desde Teagan Tao hasta el resto del equipo.",
+        "step2Title": "Explora sus otros trabajos",
+        "step2Description": "Descubre las series y películas en las que han participado los actores de Crew Girl antes y después de esta serie.",
+        "step3Title": "Relaciona actores y personajes",
+        "step3Description": "Los enlaces en ambos sentidos entre los perfiles de actores y las páginas de personajes facilitan el paso del reparto a la historia."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los perfiles del reparto"
+    },
+    "release": {
+      "title": "Estreno de Crew Girl",
+      "description": "Fechas de estreno, disponibilidad en streaming y noticias de la temporada de Crew Girl, todo en una misma cronología.",
+      "metaTitle": "Fecha de estreno de Crew Girl - Temporada 1 de Netflix y noticias",
+      "metaDescription": "¿Cuándo se estrenó Crew Girl? La temporada 1 llegó a Netflix el 10 de septiembre de 2026. Sigue aquí las fechas de estreno, la disponibilidad y las noticias sobre futuras temporadas.",
+      "categoryLabel": "INFORMACIÓN DEL ESTRENO",
+      "whatIs": "¿Qué hay en la sección de estreno?",
+      "whatIsDescription": "Las páginas de estreno siguen todo lo relacionado con el tiempo en Crew Girl: el lanzamiento de la temporada 1 el 10 de septiembre de 2026, la disponibilidad en streaming por región y cualquier anuncio de futuras temporadas recopilado de fuentes oficiales.",
+      "why": "¿Por qué seguir las novedades del estreno?",
+      "whySteps": {
+        "step1Title": "Conoce las fechas clave",
+        "step1Description": "La primera temporada completa se estrenó el 10 de septiembre de 2026, y la cronología mantiene cada hito en orden.",
+        "step2Title": "Comprueba la disponibilidad",
+        "step2Description": "Consulta cómo y dónde ver Crew Girl en streaming para empezar a verla sin tener que buscar por todas partes.",
+        "step3Title": "Entérate pronto de las noticias",
+        "step3Description": "Si Netflix anuncia más episodios de Crew Girl, la cronología será el primer lugar donde aparecerá la actualización."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las novedades del estreno"
+    },
+    "story": {
+      "title": "Historia de Crew Girl",
+      "description": "La historia de Crew Girl explicada: el nuevo comienzo de Teagan, el equipo masculino de remo y las relaciones que dan forma a la temporada 1.",
+      "metaTitle": "Historia de Crew Girl - Trama, triángulo amoroso y final",
+      "metaDescription": "La historia de Crew Girl explicada: la mudanza de Teagan Tao tras un escándalo familiar, la vida en el equipo masculino de remo, el triángulo amoroso y el final de la temporada 1.",
+      "categoryLabel": "HISTORIA Y TRAMA",
+      "whatIs": "¿Qué hay en la sección de historia?",
+      "whatIsDescription": "Las páginas de historia explican el arco narrativo de Crew Girl paso a paso: el escándalo familiar que desarraiga a Teagan Tao, su entrada en el equipo masculino de Easton Prep, la rivalidad y el romance en torno a Josh y Cam, y la forma en que el final de la Haverford Cup lo conecta todo.",
+      "why": "¿Por qué leer los análisis de la historia?",
+      "whySteps": {
+        "step1Title": "Obtén la visión completa",
+        "step1Description": "Descubre cómo encajan en una misma historia la temporada de remo, el curso escolar y el conflicto familiar.",
+        "step2Title": "Aclara las relaciones",
+        "step2Description": "La dinámica entre Teagan, Josh y Cam impulsa la temporada; los análisis muestran cada uno de sus cambios.",
+        "step3Title": "Elige tu nivel de spoilers",
+        "step3Description": "Los resúmenes sin spoilers y las explicaciones completas del final se mantienen separados, para que leas solo lo que quieras."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de historia"
+    },
+    "reviews": {
+      "title": "Reseñas de Crew Girl",
+      "description": "Lo que dicen los espectadores y la crítica sobre Crew Girl, además de para quién resulta más adecuado este drama juvenil de remo.",
+      "metaTitle": "Reseñas de Crew Girl - ¿Vale la pena ver el drama de Netflix?",
+      "metaDescription": "Reseñas y orientación para ver Crew Girl: cómo combina la competición de remo, el drama escolar y las relaciones juveniles, y qué espectadores disfrutarán más de la serie.",
+      "categoryLabel": "RESEÑAS Y CLASIFICACIONES",
+      "whatIs": "¿Qué hay en la sección de reseñas?",
+      "whatIsDescription": "Las páginas de reseñas analizan cómo funciona Crew Girl como drama deportivo juvenil: la mezcla de acción de remo, rivalidad escolar y romance, la clasificación TV-14 y el tipo de espectador al que probablemente atraerá cada elemento.",
+      "why": "¿Por qué consultar las reseñas?",
+      "whySteps": {
+        "step1Title": "Decide si encaja contigo",
+        "step1Description": "Descubre cómo equilibra Crew Girl la competición deportiva con el drama de iniciación antes de comprometerte con ocho episodios.",
+        "step2Title": "Entiende la clasificación",
+        "step2Description": "La clasificación TV-14 y su contexto ayudan a padres y espectadores jóvenes a elegir el momento adecuado para verla.",
+        "step3Title": "Encuentra tu punto de entrada",
+        "step3Description": "Tanto si te interesa el remo como el drama escolar o las relaciones entre personajes, las reseñas señalan qué ofrece la serie a cada tipo de espectador."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las reseñas"
+    },
+    "streaming": {
+      "title": "Streaming de Crew Girl",
+      "description": "Dónde ver Crew Girl: disponibilidad en Netflix, opciones para la aplicación y la web, y la forma más rápida de empezar el episodio 1.",
+      "metaTitle": "Streaming de Crew Girl - Dónde ver la serie de Netflix",
+      "metaDescription": "Crew Girl está disponible en streaming en Netflix. Encuentra la ficha, comprueba las opciones de la aplicación y la web y empieza a ver el drama juvenil de remo en pocos minutos.",
+      "categoryLabel": "DÓNDE VERLA",
+      "whatIs": "¿Qué hay en la sección de streaming?",
+      "whatIsDescription": "Las páginas de streaming cubren los aspectos prácticos para ver Crew Girl: encontrar la ficha oficial de Netflix, utilizar el reproductor web o las aplicaciones para móvil y televisión, y pasar de la búsqueda al episodio 1 en el menor número de pasos posible.",
+      "why": "¿Por qué usar las páginas de streaming?",
+      "whySteps": {
+        "step1Title": "Ve directamente a la fuente",
+        "step1Description": "Crew Girl está disponible en la ficha oficial de Netflix, y los enlaces de aquí te llevan directamente a ella.",
+        "step2Title": "Vela en cualquier pantalla",
+        "step2Description": "Las opciones de web, móvil y aplicación de televisión conducen a la misma serie, con indicaciones para cada una.",
+        "step3Title": "Empieza más rápido",
+        "step3Description": "Un recorrido de tres pasos desde abrir Netflix hasta pulsar reproducir en el episodio 1, sin desvíos."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de streaming"
+    },
+    "filming": {
+      "title": "Rodaje de Crew Girl",
+      "description": "Dónde se rodó Crew Girl: las localizaciones de Victoria, Columbia Británica, que representan Easton Prep, la casa de botes y las escenas en el agua.",
+      "metaTitle": "Localizaciones de rodaje de Crew Girl - Dónde se filmó el drama de Netflix",
+      "metaDescription": "Crew Girl se rodó en Victoria, Columbia Británica. Explora las escuelas, las casas de botes y las localizaciones acuáticas reales que representan Easton Prep y su mundo del remo.",
+      "categoryLabel": "LOCALIZACIONES DE RODAJE",
+      "whatIs": "¿Qué hay en la sección de rodaje?",
+      "whatIsDescription": "Las páginas de rodaje separan el mundo ficticio de Crew Girl de los lugares reales que lo representan: las localizaciones de Victoria, Columbia Británica, que hacen de Easton Prep, la casa de botes y el agua de entrenamiento, además de la forma en que se prepararon las escenas acuáticas.",
+      "why": "¿Por qué explorar las localizaciones de rodaje?",
+      "whySteps": {
+        "step1Title": "Conoce los lugares reales",
+        "step1Description": "Relaciona los pasillos de la escuela y la casa de botes que aparecen en pantalla con las localizaciones de Victoria que los representaron.",
+        "step2Title": "Distingue la ficción de la realidad",
+        "step2Description": "Las páginas mantienen claramente separado el Easton Prep ficticio de los lugares reales de rodaje.",
+        "step3Title": "Añade contexto al remo",
+        "step3Description": "Saber dónde se rodaron las escenas en el agua facilita imaginar las carreras que aparecen en pantalla."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos sobre el rodaje"
+    },
+    "trailer": {
+      "title": "Tráiler de Crew Girl",
+      "description": "Mira el tráiler y el adelanto oficiales de Crew Girl de Netflix, con un análisis de lo que revela cada avance.",
+      "metaTitle": "Tráiler de Crew Girl - Mira el avance oficial de Netflix",
+      "metaDescription": "Mira el tráiler oficial de Crew Girl de Netflix. Descubre el equipo de remo, el entorno escolar y los conflictos que ocupan el centro del drama juvenil.",
+      "categoryLabel": "TRÁILER OFICIAL",
+      "whatIs": "¿Qué hay en la sección del tráiler?",
+      "whatIsDescription": "Las páginas de tráiler reúnen los avances oficiales de Netflix de Crew Girl, desde el primer teaser hasta el tráiler completo, con breves análisis de los personajes, las carreras y los momentos de la historia que muestra cada uno.",
+      "why": "¿Por qué ver los tráilers aquí?",
+      "whySteps": {
+        "step1Title": "Descubre la serie antes de verla",
+        "step1Description": "El tráiler muestra el equipo de remo, la escuela y las relaciones centrales en menos de tres minutos.",
+        "step2Title": "Sabe qué muestra cada avance",
+        "step2Description": "Los análisis indican qué personajes y momentos de la historia aparecen en cada avance oficial.",
+        "step3Title": "Encuentra las fuentes oficiales",
+        "step3Description": "Todos los tráilers enlazan con los canales oficiales de Netflix, para que los veas tal como se publicaron."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los tráilers"
+    }
+  }
+}
