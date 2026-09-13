@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { ExternalLink, Play } from "lucide-react";
 
 interface VideoFeatureProps {
@@ -9,11 +9,14 @@ interface VideoFeatureProps {
 }
 
 /**
- * 懒激活视频组件：默认渲染本地封面 + 播放按钮，点击后才挂载 iframe。
+ * 视频组件：IntersectionObserver 监测视频区域进入视口时自动播放
+ * （autoplay=1&mute=1&loop=1，静音自动播放符合浏览器策略），
+ * 同时保留点击封面播放按钮作为后备。
  * 封面使用本地 hero.webp（与新游戏主题一致的官方海报）。
  */
 export function VideoFeature({ videoId, title }: VideoFeatureProps) {
   const [activated, setActivated] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
 
   const watchUrl = useMemo(
     () => `https://www.youtube.com/watch?v=${videoId}`,
@@ -22,12 +25,33 @@ export function VideoFeature({ videoId, title }: VideoFeatureProps) {
 
   const embedUrl = useMemo(
     () =>
-      `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&playsinline=1&rel=0`,
+      `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&loop=1&playlist=${videoId}&playsinline=1&rel=0`,
     [videoId],
   );
 
+  useEffect(() => {
+    // 已激活（自动或手动）后不再监听
+    if (activated) return;
+    const node = containerRef.current;
+    if (!node || typeof IntersectionObserver === "undefined") return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            setActivated(true);
+            observer.disconnect();
+          }
+        }
+      },
+      { threshold: 0.5 },
+    );
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, [activated]);
+
   return (
-    <div className="space-y-4">
+    <div className="space-y-4" ref={containerRef}>
       <div className="relative w-full overflow-hidden rounded-lg aspect-video bg-black">
         {activated ? (
           <iframe

@@ -28,6 +28,14 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Crew Girl 首页导航卡图标
+  MonitorPlay: LucideIcons.MonitorPlay,
+  ListVideo: LucideIcons.ListVideo,
+  Flag: LucideIcons.Flag,
+  Drama: LucideIcons.Drama,
+  Clapperboard: LucideIcons.Clapperboard,
+  Waves: LucideIcons.Waves,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
