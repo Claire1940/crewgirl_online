@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Crew Girl Wiki - Cast, Episodes & Plot Guide",
+  "short_name": "Crew Girl",
+  "description": "Explore Crew Girl cast, episodes, plot twists, rowing drama, character guides, release news, and spoiler-free recaps for Netflix's teen sports series.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#29aea0",
+  "background_color": "#0b131e",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

@@ -62,3 +62,6 @@ test-cards.html
 
 # 站点清单（含全部域名，禁止提交到 public repo）
 site.json
+
+# Claude Code 本地会话配置
+.claude/settings.local.json
