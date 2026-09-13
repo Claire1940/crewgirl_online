@@ -85,7 +85,7 @@ export default function HomePageClient({
 }: HomePageClientProps) {
   const t = useMessages() as any;
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.lucidblocks.wiki";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://crewgirl.online";
 
   // Structured data
   const structuredData = {
@@ -95,9 +95,9 @@ export default function HomePageClient({
         "@type": "WebSite",
         "@id": `${siteUrl}/#website`,
         url: siteUrl,
-        name: "Lucid Blocks Wiki",
+        name: "Crew Girl Wiki",
         description:
-          "Complete Lucid Blocks Wiki covering crafting, biomes, creatures, items, achievements, lore, and survival tips for the surreal voxel sandbox on Steam.",
+          "Crew Girl Wiki covers episodes, cast, characters, plot explained, rowing details, and release news for Netflix's teen rowing drama series.",
         image: {
           "@type": "ImageObject",
           url: `${siteUrl}/images/hero.webp`,
@@ -114,11 +114,11 @@ export default function HomePageClient({
       {
         "@type": "Organization",
         "@id": `${siteUrl}/#organization`,
-        name: "Lucid Blocks Wiki",
-        alternateName: "Lucid Blocks",
+        name: "Crew Girl Wiki",
+        alternateName: "Crew Girl Wiki Team",
         url: siteUrl,
         description:
-          "Complete Lucid Blocks Wiki resource hub for crafting, biomes, creatures, items, achievements, and survival guides",
+          "Fan-made Crew Girl Wiki resource hub for episode recaps, cast and character guides, rowing details, and release news",
         logo: {
           "@type": "ImageObject",
           url: `${siteUrl}/android-chrome-512x512.png`,
@@ -135,25 +135,19 @@ export default function HomePageClient({
         sameAs: [
           "https://www.netflix.com/title/81991578",
           "https://www.netflix.com/tudum/crew-girl",
+          "https://media.netflix.com/en/only-on-netflix/81991578",
           "https://www.youtube.com/watch?v=ocTpTujngeM",
         ],
       },
       {
-        "@type": "VideoGame",
-        name: "Lucid Blocks",
-        gamePlatform: ["PC", "Steam"],
-        applicationCategory: "Game",
-        genre: ["Survival", "Sandbox", "Adventure", "Psychedelic"],
-        numberOfPlayers: {
-          minValue: 1,
-          maxValue: 1,
-        },
-        offers: {
-          "@type": "Offer",
-          priceCurrency: "USD",
-          availability: "https://schema.org/InStock",
-          url: "https://store.steampowered.com/app/3495730/Lucid_Blocks/",
-        },
+        "@type": "TVSeries",
+        name: "Crew Girl",
+        description:
+          "Netflix's teen rowing drama about Teagan Tao, an elite young sculler who joins an all-boys prep-school crew team after a family scandal.",
+        genre: ["Teen Drama", "Sports Drama", "Coming of Age"],
+        numberOfEpisodes: 8,
+        datePublished: "2026-09-10",
+        url: "https://www.netflix.com/title/81991578",
       },
       {
         "@type": "VideoObject",
@@ -161,7 +155,7 @@ export default function HomePageClient({
         description:
           "Official trailer for Crew Girl, Netflix's teen rowing drama about Teagan Tao, an elite young sculler who joins an all-boys prep-school crew team after a family scandal.",
         uploadDate: "2026-06-16",
-        thumbnailUrl: "https://i.ytimg.com/vi/ocTpTujngeM/maxresdefault.jpg",
+        thumbnailUrl: "https://i.ytimg.com/vi/ocTpTujngeM/hqdefault.jpg",
         embedUrl: "https://www.youtube.com/embed/ocTpTujngeM",
         url: "https://www.youtube.com/watch?v=ocTpTujngeM",
       },
@@ -246,14 +240,14 @@ export default function HomePageClient({
                 {t.hero.getFreeCodesCTA}
               </button>
               <a
-                href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                href="https://www.netflix.com/title/81991578"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 md:px-8 md:py-4
                            border border-border hover:bg-white/10 rounded-lg
                            font-semibold text-base md:text-lg transition-colors"
               >
-                {t.hero.playOnSteamCTA}
+                {t.hero.playOnRobloxCTA}
                 <ArrowRight className="w-5 h-5" />
               </a>
             </div>
@@ -1320,25 +1314,26 @@ export default function HomePageClient({
                   Still having issues?
                 </h3>
                 <p className="text-sm text-muted-foreground mb-3">
-                  Report bugs with your logs through the official channels:
+                  Get official series information and updates through the
+                  official channels:
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://www.netflix.com/tudum/crew-girl"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    <MessageCircle className="w-4 h-4" /> Discord{" "}
+                    <MessageCircle className="w-4 h-4" /> Netflix Tudum{" "}
                     <ExternalLink className="w-3 h-3" />
                   </a>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.netflix.com/title/81991578"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    Steam Community <ExternalLink className="w-3 h-3" />
+                    Watch on Netflix <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>
@@ -1399,42 +1394,42 @@ export default function HomePageClient({
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://www.netflix.com/title/81991578"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.discord}
+                    {t.footer.netflix}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href="https://www.netflix.com/tudum/crew-girl"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.twitter}
+                    {t.footer.tudum}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href="https://media.netflix.com/en/only-on-netflix/81991578"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.steamCommunity}
+                    {t.footer.mediaCenter}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.youtube.com/watch?v=ocTpTujngeM"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.steamStore}
+                    {t.footer.trailer}
                   </a>
                 </li>
               </ul>
